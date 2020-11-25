@@ -10,7 +10,7 @@ Lecture 9: Linear Correlation Analysis — [[▶️Video](https://www.youtube.co
 Lecture 10: Instability of Estimates — [[▶️Video](https://www.youtube.com/watch?v=2pbu3_6lF40)]\
 Lecture 11: Random Variables \
 Lecture 12: Linear Regression — [[▶️Video](https://www.youtube.com/watch?v=Af0l3TQJ3h8?t=3m36s)]\
-Lecture 13: Maximum Likelihood Estimation 
+Lecture 13: Maximum Likelihood Estimation \
 Lecture 14: Regression Model Instability — [[▶️Video](https://www.youtube.com/watch?v=HMQ34PfhzGE)]\
 Lecture 15: Multiple Linear Regression \
 Lecture 16: Violations of Regression Models — [[▶️Video](https://www.youtube.com/watch?v=xM94MRs8U3M)]\
